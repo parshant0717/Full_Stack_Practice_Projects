@@ -10,7 +10,7 @@ This CLI app lets you create, read, update, complete, and delete tasks persisted
 
 - Node.js (v14+ recommended)
 - `npm` available
-- <file>.json to store tasks.
+- <file>.json empty file to store tasks.
 
 ## Install
 
